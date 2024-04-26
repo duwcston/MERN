@@ -13,4 +13,4 @@ The MERN architecture allows you to easily construct a three-tier architecture (
 
 ## MVC Framework Architecture
 The Model-View-Controller (MVC) framework is an architectural/design pattern that separates an application into three main logical components Model, View, and Controller
-<img width="100%" src="https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png" alt="MVCarchitecture.png" />
+<img width="70%" src="https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png" alt="MVCarchitecture.png" />
